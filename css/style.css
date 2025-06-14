@@ -64,6 +64,7 @@ a {
 
 header {
     background-image: url(../images/hero.png);
+    background-repeat: no-repeat;
     background-position: bottom -5px right;
     height: 1050px;
     width: 1440px;
@@ -581,7 +582,7 @@ footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: 1px solid red;
+    /* border: 1px solid red; */
     /* max-width: 600px; */
     /* max-height: 900px; */
 }
